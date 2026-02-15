@@ -50,3 +50,36 @@ cd crud-app
 npm install
 
 ```
+### 3. Start Mock API (JSON Server)
+
+```bash
+npm run server
+API will run on:
+http://localhost:3001/users
+
+```
+### 4. Start Mock API (JSON Server)
+
+```bash
+Open new terminal:
+npm run dev
+Frontend runs on:
+http://localhost:5173
+
+```
+###  Live Demo
+
+```bash
+[Open new terminal:
+npm run dev
+Frontend runs on:
+http://localhost:5173](https://task-react-crud.netlify.app/)
+
+```
+###  Deployment Note
+
+```bash
+The live demo focuses on frontend UI.
+JSON Server is used locally for development as mock API.
+
+```
