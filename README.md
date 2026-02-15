@@ -40,10 +40,10 @@ This project was created as a test task to demonstrate React fundamentals, API i
 ### 1. Clone repository
 
 ```bash
-git clone ``` https://github.com/skansar9731/react-crud-app.git
+git clone https://github.com/skansar9731/react-crud-app.git
 cd crud-app
-```
 
+```
 ### 2. Install dependencies
 
 ```bash
