@@ -45,12 +45,12 @@ cd crud-app
 
 ---
 
-## 2. Install dependencies
+2. Install dependencies
 npm install
 
 ---
 
-## 3. Start Mock API (JSON Server)
+3. Start Mock API (JSON Server)
 npm run server
 
 API will run on:
@@ -58,7 +58,7 @@ http://localhost:3001/users
 
 ---
 
-## 4. Start React App
+4. Start React App
 Open new terminal:
 npm run dev
 Frontend runs on:
