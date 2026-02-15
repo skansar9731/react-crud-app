@@ -45,14 +45,14 @@ cd crud-app
 
 ---
 
-```bash
 ### 2. Install dependencies
+```bash
 npm install
 
 ---
 
-```bash
 ### 3. Start Mock API (JSON Server)
+```bash
 npm run server
 
 API will run on:
@@ -60,8 +60,8 @@ http://localhost:3001/users
 
 ---
 
-```bash
 ### 4. Start React App
+```bash
 Open new terminal:
 npm run dev
 Frontend runs on:
@@ -69,14 +69,14 @@ http://localhost:5173
 
 ---
 
-```bash
  Live Demo
+```bash
 https://task-react-crud.netlify.app/
 
 ```
 
-```bash
 Deployment Note
+```bash
 
 The live demo focuses on frontend UI.
 
