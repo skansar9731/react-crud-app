@@ -42,8 +42,11 @@ This project was created as a test task to demonstrate React fundamentals, API i
 ```bash
 git clone ``` https://github.com/skansar9731/react-crud-app.git
 cd crud-app
+```
 
 ### 2. Install dependencies
 
 ```bash
 npm install
+
+```
