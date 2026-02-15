@@ -70,10 +70,7 @@ http://localhost:5173
 ###  Live Demo
 
 ```bash
-[Open new terminal:
-npm run dev
-Frontend runs on:
-http://localhost:5173](https://task-react-crud.netlify.app/)
+https://task-react-crud.netlify.app/
 
 ```
 ###  Deployment Note
